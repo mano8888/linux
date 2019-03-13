@@ -1,0 +1,20 @@
+ps -ef -------serach the findout thw files
+w
+show the files
+du -sh----show the size of folder
+ggrep find out the files
+grep -n 
+grep -c 
+ls -a -l 
+cat dock1 > dock2
+free -m
+free -g
+vmstat -l
+vmstat -t
+cat /etc/passwd
+cat /etc/shadow
+df -hT
+cat /etc/meminfo
+cal
+env
+
